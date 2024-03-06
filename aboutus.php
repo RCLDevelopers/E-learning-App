@@ -522,7 +522,7 @@ In the modern world, with the amount of problems and their complexity increasing
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Mentor
         -->
-        Designed by <a href="https://amoldalwai.com/">Amol Dalwai</a>
+        Designed by <a href="https://zangticsdigital.com/">Zangtics Digital</a>
       </div>
     </div>
   </footer>
