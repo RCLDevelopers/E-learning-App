@@ -753,7 +753,7 @@
         <li><a href="#link"><i class="fa fa-dribbble fa-fw"></i></a></li>
         <li><a href="#link"><i class="fa fa-linkedin fa-fw"></i></a></li>
       </ul>
-      ©2016 Learn To Code  All rights reserved
+      ©2024 Learn To Code  All rights reserved
       <div class="credits">
         <!--
           All the links in the footer should remain intact.
